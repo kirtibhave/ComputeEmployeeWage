@@ -1,4 +1,4 @@
-#!/bin/bash 
+!/bin/bash 
 echo "welcome to arithmetic computation & sorting"
 
 declare -A Dictionary_Result
@@ -42,7 +42,3 @@ do
      done
 done
   echo "descending order:" ${Array_Result[@]}
-
-
-
-
